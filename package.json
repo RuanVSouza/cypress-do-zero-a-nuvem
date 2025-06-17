@@ -4,14 +4,10 @@
   "description": "Curso 'Cypress, do Zero à Nuvem' da Escola Talking About Testing.",
   "main": "src/index.html",
   "scripts": {
-<<<<<<< HEAD
-    "test": "echo \"Error: no test specified\" && exit 1"
-=======
     "cy:open": "cypress open",
     "cy:open:mobile": "cypress open --config viewportWidth=370 viewportHeight=660",
     "test": "cypress run",
     "test:mobile": "cypress run --config viewportWidth=410 viewportHeight=860"
->>>>>>> 3c345c7 (Configure the CI workflow)
   },
   "repository": {
     "type": "git",
@@ -28,13 +24,8 @@
   ],
   "author": "Walmyr <wlsf82@gmail.com> (https://walmyr.dev/)",
   "license": "MIT",
-<<<<<<< HEAD
-  "homepage": "https://github.com/wlsf82/cypress-do-zero-a-nuvem#readme"
-}
-=======
   "homepage": "https://github.com/wlsf82/cypress-do-zero-a-nuvem#readme",
   "devDependencies": {
     "cypress": "^13.12.0"
   }
 }
->>>>>>> 3c345c7 (Configure the CI workflow)
