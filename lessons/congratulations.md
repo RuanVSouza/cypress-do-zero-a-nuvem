@@ -1,4 +1,4 @@
-# 🥳 Parabéns, você conseguiu! 🎉
+<!-- # 🥳 Parabéns, você conseguiu! 🎉
 
 Que jornada, hein?
 
@@ -35,4 +35,4 @@ Confira também os [outros cursos](https://www.udemy.com/user/walmyr/) da Escola
 
 **Obs.:** Lembre-se de me marcar em sua postagem. [Aqui está meu perfil no LinkedIn](https://www.linkedin.com/in/walmyr-lima-e-silva-filho).
 
-Bons testes! 🚀
+Bons testes! 🚀 -->
